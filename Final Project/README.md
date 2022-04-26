@@ -2,9 +2,9 @@
 
 The scope of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application. 
 
-Application under test: 
+Application under test: https://opensource-demo.orangehrmlive.com/
 
-API Documentation: 
+API Documentation: https://orangehrm.github.io/orangehrm-api-doc/
 
 **The final project will be split into 2 sections: [Testing section](https://github.com/SuciuTiberiu/Manual_Testing_Portofolio/blob/main/Final%20Project/README.md#1-testing-section) and [SQL section](https://github.com/SuciuTiberiu/Manual_Testing_Portofolio/blob/main/Final%20Project/README.md#2-sql-section).**
 
