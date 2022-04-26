@@ -6,8 +6,7 @@ Application under test:
 
 API Documentation: 
 
-**The final project will be split into 2 sections: [Testing section]
-(https://github.com/SuciuTiberiu/Manual_Testing_Portofolio/blob/main/Final%20Project/README.md#1-testing-section) and [SQL section](https://github.com/SuciuTiberiu/Manual_Testing_Portofolio/blob/main/Final%20Project/README.md#2-sql-section).**
+**The final project will be split into 2 sections: [Testing section](https://github.com/SuciuTiberiu/Manual_Testing_Portofolio/blob/main/Final%20Project/README.md#1-testing-section) and [SQL section](https://github.com/SuciuTiberiu/Manual_Testing_Portofolio/blob/main/Final%20Project/README.md#2-sql-section).**
 
 Tools used:
 
