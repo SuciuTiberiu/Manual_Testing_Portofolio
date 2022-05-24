@@ -24,7 +24,11 @@ The Test Plan is designed to describe all details of testing for the Recruitment
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan
 
 #### 1.1.1 Roles assigned to the project and persons allocated
-
+   
+   - Project manager - Mihai Popescu
+   - Product owner - Ioana Crisan
+   - Software developer - Catalin Chitu
+   - QA Engineer - Viorel-Tiberiu Suciu
 
 #### 1.1.2 Entry criteria defined
 
