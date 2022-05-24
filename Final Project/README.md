@@ -32,18 +32,28 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 #### 1.1.2 Entry criteria defined
 
+   - functional specifications are defined
+   - roles needed for the project are allocated
+   - initial project risks were detected and mitigated
+   - test environment, test data and test tool are set
 
 #### 1.1.3 Exit criteria defined
 
+   - number of unresolved bugs is insignificant or they have low priority
+   - all tests have been executed
+   - all resolved bugs have been re-tested and approved by the QA team
+   - deadline was reached
+   - exploratory regression testing must be performed on the Recruitment module, which includes the Vacancies section
+
 #### 1.1.4 Test scope
 
-* __Tests in scope:__ 
-* __Tests not in scope:__ 
+* __Tests in scope:__ All the feature of Vacancies module which were defined in software requirement specs need to be tested: functional testing, GUI testing and API testing
+* __Tests not in scope:__ Performance testing, integrations of the Recruitment module with other modules, compatibility testing with multiple browsers
 
 #### 1.1.5 Risks detected
 
-* Project risks: 
-* Product risks: 
+* Project risks: lack of experience of the QA team, short deadline of Zephyr Squad trial, unavailability of test environment, disappearing of the section
+* Product risks: validation constraints on the fields might be too restrictive to the end-user
 
 #### 1.1.6 Evaluating entry criteria
 
