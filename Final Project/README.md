@@ -68,15 +68,22 @@ Variou periodic reports were generated to reflect the current status of the test
 ## 1.3 Test Analysis
 
 The testing process will be executed based on the above requirements for the Dependents module. The following test conditions were found:
- * Enter test conditions here
-
+ * Enter data only for mandatory fields and check that the vacancy is created
+ * Enter data for all available fields and check that the vacancy is created
+ * Leave mandatory fields empty and check that the vacancy cannot be created
+ * Edit data in any available fields and check if the vacancy can be updated.
+ * View all vacancies in a list
+ * Search for available vacancy
+ * Check all validation constraints for the fields
+ 
 ## 1.4 Test Design
 
 Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases 
-are:
+are: boundry value analysis, equivalance partitioning, use case testing.
 
 **Test cases:**
--> enter here test cases or at least the titles
+
+![test cases](https://user-images.githubusercontent.com/43067041/170319243-e9a0b78a-b08a-420e-b322-48bd20387e46.jpg)
 
 
 The test cases with steps can be viewed here: [test_cases.pdf]()
