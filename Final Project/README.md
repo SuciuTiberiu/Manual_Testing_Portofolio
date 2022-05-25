@@ -86,7 +86,7 @@ are: boundry value analysis, equivalance partitioning, use case testing.
 ![test cases](https://user-images.githubusercontent.com/43067041/170319243-e9a0b78a-b08a-420e-b322-48bd20387e46.jpg)
 
 
-The test cases with steps can be viewed here: [test_cases.pdf]()
+The test cases with steps can be viewed here: [test_cases.pdf](https://github.com/SuciuTiberiu/Manual_Testing_Portofolio/blob/main/Final%20Project/Vacancies_test_cases.pdf)
 
 ## 1.5 Test Implementation
 
