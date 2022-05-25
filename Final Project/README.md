@@ -61,7 +61,11 @@ The entry criterias defined in the Test Planning phase have been achieved and th
 
 ## 1.2 Test Monitoring and Control
 
-It will be done by generating periodic reports that reflect the current status of the test.
+Variou periodic reports were generated to reflect the current status of the testing process, in case of major problems control measures could be taken. The following status report was generated after 50% of the test cases were executed, on 18/05/2022:
+
+![Test Execution chart 05 18 2022](https://user-images.githubusercontent.com/43067041/170310508-47c1e965-d329-4be7-bf76-b81f3f0bff31.png)
+
+
 
 ## 1.3 Test Analysis
 
