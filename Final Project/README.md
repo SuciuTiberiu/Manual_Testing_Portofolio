@@ -12,8 +12,9 @@ Tools used:
 
 # Functional specifications
 
--> enter here the functional specifications created in JIRA
+The below Story was created in JIRA and describes the functional specifications of the Vacancies module, for which the final project is performed.
 
+![image](https://user-images.githubusercontent.com/43067041/170828947-a207e233-fd8a-41a0-93ec-5e700fa8e4bc.png)
 
 # 1 Testing section
 
