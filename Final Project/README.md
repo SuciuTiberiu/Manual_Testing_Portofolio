@@ -112,3 +112,4 @@ The following elements are needed to be ready before the test execution phase be
 
 # 2 SQL section
 
+Created a database named 'orangehrm' and a table named 'vacancies' with all the columns needed to search for data per specifications. Performed different queries inside the sql file: [vacancies.sql](https://github.com/SuciuTiberiu/Manual_Testing_Portofolio/blob/main/Final%20Project/vacancies.sql)
