@@ -112,4 +112,21 @@ The following elements are needed to be ready before the test execution phase be
 
 # 2 SQL section
 
-Created a database named 'orangehrm' and a table named 'vacancies' with all the columns needed to search for data per specifications. Performed different queries inside the sql file: [vacancies.sql](https://github.com/SuciuTiberiu/Manual_Testing_Portofolio/blob/main/Final%20Project/vacancies.sql)
+Created a database named 'orangehrm' and a table named 'vacancies' with all the columns needed to search for data per specifications. Performed different queries inside the sql file: [vacancies.sql](https://github.com/SuciuTiberiu/Manual_Testing_Portofolio/blob/main/Final%20Project/vacancies.sql). The following queries where perferomed:
+ * [select * from vacancies;](https://github.com/SuciuTiberiu/Manual_Testing_Portofolio/blob/main/Final%20Project/screen_shots/select%20from.png)
+
+ * [select * from vacancies where hiringManager = 'Razvan Dumitrescu';](https://github.com/SuciuTiberiu/Manual_Testing_Portofolio/blob/main/Final%20Project/screen_shots/select%20from%20where%20equals.png)
+
+ * [select * from vacancies where hiringManager like '%escu';](https://github.com/SuciuTiberiu/Manual_Testing_Portofolio/blob/main/Final%20Project/screen_shots/select%20from%20where%20like.png)
+
+ * [select count(*) from vacancies;](https://github.com/SuciuTiberiu/Manual_Testing_Portofolio/blob/main/Final%20Project/screen_shots/select%20count.png)
+
+ * [select vacancy from vacancies where jobTitle like '%QA%';](https://github.com/SuciuTiberiu/Manual_Testing_Portofolio/blob/main/Final%20Project/screen_shots/select%20vacancy%20where%20like.png)
+
+ * [select hiringManager, count(*) from vacancies group by hiringManager order by hiringManager asc;](https://github.com/SuciuTiberiu/Manual_Testing_Portofolio/blob/main/Final%20Project/screen_shots/select%20count%20group%20by%20order%20by.png)
+
+ * [update vacancies set jobTitle = 'Sales Representative QA' where hiringManager = 'Alina Man';](https://github.com/SuciuTiberiu/Manual_Testing_Portofolio/blob/main/Final%20Project/screen_shots/update%20jobTitle.png)
+
+ * [select * from vacancies where jobTitle like '%QA' OR  '%QA%' OR 'QA%' group by hiringManager;](https://github.com/SuciuTiberiu/Manual_Testing_Portofolio/blob/main/Final%20Project/screen_shots/select%20where%20like%20OR%20group%20by.png)
+
+ * [delete from vacancies where vacancy_id = 4](https://github.com/SuciuTiberiu/Manual_Testing_Portofolio/blob/main/Final%20Project/screen_shots/delete.png)
