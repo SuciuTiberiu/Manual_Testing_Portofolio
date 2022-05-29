@@ -100,8 +100,8 @@ The following elements are needed to be ready before the test execution phase be
 
 ## 1.6 Test Execution
 
-* Test cases are executed on the created test Cycle summary: [cycle_summary_execution.pdf]()
-* Bugs have been created based on the failed tests. The complete bug reports can be found here: [created_bugs.pdf]()
+* Test cases are executed on the created test Cycle summary: [cycle_summary_execution.pdf](https://github.com/SuciuTiberiu/Manual_Testing_Portofolio/blob/main/Final%20Project/Vacancies%20cycle%20summary%20execution.pdf)
+* Bugs have been created based on the failed tests. The complete bug reports can be found here: [created_bugs.pdf](https://github.com/SuciuTiberiu/Manual_Testing_Portofolio/blob/main/Final%20Project/created%20bugs.pdf)
     *  enter here bug titles
 
 
