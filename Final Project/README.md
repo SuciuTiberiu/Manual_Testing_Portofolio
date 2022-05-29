@@ -62,13 +62,13 @@ The entry criterias defined in the Test Planning phase have been achieved and th
 
 ## 1.2 Test Monitoring and Control
 
-Variou periodic reports were generated to reflect the current status of the testing process, in case of major problems control measures could be taken. The following status report was generated after 50% of the test cases were executed, on 18/05/2022:
+Various periodic reports were generated to reflect the current status of the testing process, in case of major problems control measures could be taken. The following status report was generated after 50% of the test cases were executed, on 18/05/2022:
 
 ![Test Execution chart 05 18 2022](https://user-images.githubusercontent.com/43067041/170312322-3db821d3-819c-4fae-8157-2308d5cacf1a.jpg)
 
 ## 1.3 Test Analysis
 
-The testing process will be executed based on the above requirements for the Dependents module. The following test conditions were found:
+The testing process will be executed based on the above requirements for the Vacancies module. The following test conditions were found:
  * Enter data only for mandatory fields and check that the vacancy is created
  * Enter data for all available fields and check that the vacancy is created
  * Leave mandatory fields empty and check that the vacancy cannot be created
