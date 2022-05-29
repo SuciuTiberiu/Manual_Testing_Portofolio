@@ -101,7 +101,7 @@ The following elements are needed to be ready before the test execution phase be
 ## 1.6 Test Execution
 
 * Test cases are executed on the created test Cycle summary: [cycle_summary_execution.pdf](https://github.com/SuciuTiberiu/Manual_Testing_Portofolio/blob/main/Final%20Project/Vacancies%20cycle%20summary%20execution.pdf)
-* Bugs have been created based on the failed tests. The complete bug reports can be found here: [created_bugs.pdf](https://github.com/SuciuTiberiu/Manual_Testing_Portofolio/blob/main/Final%20Project/created%20bugs.pdf)
+* Bugs have been created based on the failed tests. The complete bug reports can be found here: [created_bugs.pdf](https://github.com/SuciuTiberiu/Manual_Testing_Portofolio/blob/main/Final%20Project/created_bugs.pdf)
     * [Vacancies] Hiring Manager is missing from the Vacancy posted jobs
     * [Vacancies] The vacancies page is not properly aligned
     * [Vacancies] Job Title and Vacancy are not in line with the below correspondent
@@ -119,11 +119,6 @@ The following elements are needed to be ready before the test execution phase be
     * [Vacancies][Add] 56 characters can be inserted into Vacancy Name field - 1 defect
     * [Vacancies][Edit] Extra step to click an edit button to actual reach the editable page - 1 defect
     
-![image](https://user-images.githubusercontent.com/43067041/170878002-22d87a6b-50dc-4493-964e-552dbd3f74e9.png)
-
-![image](https://user-images.githubusercontent.com/43067041/170877642-1ada3ddf-efb9-4eda-9647-3d3fa5d27629.png)
-
-
 
 ## 1.7 Test Completion
 
