@@ -8,7 +8,7 @@ API Documentation: https://orangehrm.github.io/orangehrm-api-doc/
 
 **The final project will be split into 2 sections: [Testing section](https://github.com/SuciuTiberiu/Manual_Testing_Portofolio/blob/main/Final%20Project/README.md#1-testing-section) and [SQL section](https://github.com/SuciuTiberiu/Manual_Testing_Portofolio/blob/main/Final%20Project/README.md#2-sql-section).**
 
-Tools used:
+Tools used: Jira with Zephire for test management, Chrome DevTools, Postman, MySQL.
 
 # Functional specifications
 
@@ -80,7 +80,7 @@ The testing process will be executed based on the above requirements for the Vac
 ## 1.4 Test Design
 
 Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases 
-are: boundry value analysis, equivalance partitioning, use case testing.
+are: boundary value analysis, equivalence partitioning, use case testing.
 
 **Test cases:**
 
