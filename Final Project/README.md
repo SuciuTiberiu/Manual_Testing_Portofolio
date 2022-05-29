@@ -8,7 +8,7 @@ API Documentation: https://orangehrm.github.io/orangehrm-api-doc/
 
 **The final project will be split into 2 sections: [Testing section](https://github.com/SuciuTiberiu/Manual_Testing_Portofolio/blob/main/Final%20Project/README.md#1-testing-section) and [SQL section](https://github.com/SuciuTiberiu/Manual_Testing_Portofolio/blob/main/Final%20Project/README.md#2-sql-section).**
 
-Tools used: Jira with Zephire for test management, Chrome DevTools, Postman, MySQL.
+Tools used: Jira with Zephire for test management, Chrome DevTools and MySQL.
 
 # Functional specifications
 
@@ -48,7 +48,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 #### 1.1.4 Test scope
 
-* __Tests in scope:__ All the feature of Vacancies module which were defined in software requirement specs need to be tested: functional testing, GUI testing and API testing
+* __Tests in scope:__ All the feature of Vacancies module which were defined in software requirement specs need to be tested: functional testing and GUI testing.
 * __Tests not in scope:__ Performance testing, integrations of the Recruitment module with other modules, compatibility testing with multiple browsers
 
 #### 1.1.5 Risks detected
