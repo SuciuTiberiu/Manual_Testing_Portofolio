@@ -93,7 +93,10 @@ The test cases with steps can be viewed here: [test_cases.pdf](https://github.co
 
 The following elements are needed to be ready before the test execution phase begins:
 
-* enter here what needs to be ready for the test execution to begin
+ * Testing environment is up and running: [https://opensource-demo.orangehrmlive.com/](https://opensource-demo.orangehrmlive.com/)
+ * Access to the testing environment is given: Username : Admin | Password : admin123
+ * Cycle summary was created
+ * Test cases were added to the cycle summary
 
 ## 1.6 Test Execution
 
