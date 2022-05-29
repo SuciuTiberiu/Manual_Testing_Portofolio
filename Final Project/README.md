@@ -128,9 +128,11 @@ The following elements are needed to be ready before the test execution phase be
 ![image](https://user-images.githubusercontent.com/43067041/170878935-aafcaccf-eac5-434b-875c-22a4f4837a6d.png)
 
 
-* Test execution chart was generated, the final report shows.... -> describe the final report
+* Test execution chart was generated, the final report shows a total number of 10 test faild out of 52 tests.
+* A number of 52 tests were planed for execution and all of them were executed.
+* A number of 13 total issues were found, 8 from executing test cases and 5 while executing test cases, from which 1 is highest, 5 are high, 4 are midium and 3 are low
 
--> enter here test execution report/chart
+![Test execution chart](https://user-images.githubusercontent.com/43067041/170879438-60430fd9-8b0b-4ec2-a803-1d92a06c2c79.jpg)
 
 # 2 SQL section
 
