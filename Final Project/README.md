@@ -102,7 +102,24 @@ The following elements are needed to be ready before the test execution phase be
 
 * Test cases are executed on the created test Cycle summary: [cycle_summary_execution.pdf](https://github.com/SuciuTiberiu/Manual_Testing_Portofolio/blob/main/Final%20Project/Vacancies%20cycle%20summary%20execution.pdf)
 * Bugs have been created based on the failed tests. The complete bug reports can be found here: [created_bugs.pdf](https://github.com/SuciuTiberiu/Manual_Testing_Portofolio/blob/main/Final%20Project/created%20bugs.pdf)
-    *  enter here bug titles
+    * [Recruitment] Hiring Manager is missing from the Vacancy posted jobs
+    * [Recruitment] The vacancies page is not properly aligned
+    * [Recruitment] Job Title and Vacancy are not in line with the below correspondent
+    * [Recruitment][Edit] An extra attachment field with an Add button is display
+    * [Recruitment][Add] Leaving the Add Job Vacancy page without saving pop-up is missing
+    * [Recruitment][Add] Hiring Manager field doesn't accept any names - 1 defect
+    * [Recruitment][Add] Save button is active by default - 1 defect
+    * [Recruitment][Add] Save button is active by default
+    * [Recruitment][Add] Save button is active by default
+    * [Recruitment][Add] Save button is active by default - 1 defect
+    * [Recruitment][Add] White space can be inserted into number of positions field - 1 defect
+    * [Recruitment] Reset button reloads the page - 1 defect
+    * [Recruitment][Add] Edit job vacancy page is displayed after after saving a new job vacancy - 1 defect
+    * [Recruitment][Add] More than 500 characters can be written in description - 1 defect
+    * [Vacancies][Add] 56 characters can be inserted into Vacancy Name field - 1 defect
+    * [Vacancies][Edit] Extra step to click an edit button to actual reach the editable page - 1 defect
+![image](https://user-images.githubusercontent.com/43067041/170877642-1ada3ddf-efb9-4eda-9647-3d3fa5d27629.png)
+
 
 
 ## 1.7 Test Completion
