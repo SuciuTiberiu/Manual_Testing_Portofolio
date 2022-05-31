@@ -8,7 +8,7 @@ API Documentation: https://orangehrm.github.io/orangehrm-api-doc/
 
 **The final project will be split into 3 sections: [Testing section](https://github.com/SuciuTiberiu/Manual_Testing_Portofolio/blob/main/Final%20Project/README.md#1-testing-section), [SQL section](https://github.com/SuciuTiberiu/Manual_Testing_Portofolio/blob/main/Final%20Project/README.md#2-sql-section) and [API Testing](https://github.com/SuciuTiberiu/Manual_Testing_Portofolio/blob/main/Final%20Project/README.md#3-api-testing).**
 
-Tools used: Jira with Zephire for test management, Chrome DevTools and MySQL.
+Tools used: Jira with Zephire for test management, Chrome DevTools, Lightshot and MySQL.
 
 # Functional specifications
 
@@ -109,9 +109,6 @@ The following elements are needed to be ready before the test execution phase be
     * [Vacancies][Add] Leaving the Add Job Vacancy page without saving pop-up is missing
     * [Vacancies][Add] Hiring Manager field doesn't accept any names - 1 defect
     * [Vacancies][Add] Save button is active by default - 1 defect
-    * [Vacancies][Add] Save button is active by default
-    * [Vacancies][Add] Save button is active by default
-    * [Vacancies][Add] Save button is active by default - 1 defect
     * [Vacancies][Add] White space can be inserted into number of positions field - 1 defect
     * [Vacancies] Reset button reloads the page - 1 defect
     * [Vacancies][Add] Edit job vacancy page is displayed after after saving a new job vacancy - 1 defect
@@ -156,3 +153,7 @@ Created a database named 'orangehrm' and a table named 'vacancies' with all the 
  * [delete from vacancies where vacancy_id = 4](https://github.com/SuciuTiberiu/Manual_Testing_Portofolio/blob/main/Final%20Project/screen_shots/delete.png)
 
 # 3 API Testing
+
+   For API Testing I chose to test Projects sub-section from Time module since there were no documentation for Vacancies section.
+   * Postman collection with the dependents API methods was created
+   * Authorization token was created for accessing the API
