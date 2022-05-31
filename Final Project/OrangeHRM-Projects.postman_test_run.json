@@ -1,0 +1,137 @@
+{
+	"id": "504add97-1243-4591-a1a8-125068da44cf",
+	"name": "OrangeHRM",
+	"timestamp": "2022-05-31T18:23:14.523Z",
+	"collection_id": "0-c3dbd688-3503-4872-94b7-4969bdc48e84",
+	"folder_id": 0,
+	"environment_id": "ad61f77c-6d3a-4fea-bc87-12c5ce5b0716",
+	"totalPass": 1,
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "cab6a00d-9928-41ec-93b8-7708cb9e15e6",
+			"name": "getAccessToken",
+			"url": "https://opensource-demo.orangehrmlive.com/index.php/oauth/issueToken",
+			"time": 420,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				420
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "1adf291c-e0c0-4546-a33c-ee59110fb763",
+			"name": "GETProjects",
+			"url": "https://opensource-demo.orangehrmlive.com/api/v1/project",
+			"time": 215,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				215
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "27bb2bca-bdd0-47bf-b5cb-27c0cd501c70",
+			"name": "AddProjects",
+			"url": "https://opensource-demo.orangehrmlive.com/api/v1/project",
+			"time": 201,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				201
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "390895ab-c91e-4e0c-b2e9-d31ab6617810",
+			"name": "UpdateProjects",
+			"url": "https://opensource-demo.orangehrmlive.com/api/v1/project",
+			"time": 183,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				183
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "cf029987-d842-4274-b14b-5a62490f11b7",
+			"name": "DeleteProjects",
+			"url": "https://opensource-demo.orangehrmlive.com/api/v1/project",
+			"time": 213,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				213
+			],
+			"allTests": [
+				{}
+			]
+		}
+	],
+	"count": 1,
+	"totalTime": 1232,
+	"collection": {
+		"requests": [
+			{
+				"id": "cab6a00d-9928-41ec-93b8-7708cb9e15e6",
+				"method": "POST"
+			},
+			{
+				"id": "1adf291c-e0c0-4546-a33c-ee59110fb763",
+				"method": "GET"
+			},
+			{
+				"id": "27bb2bca-bdd0-47bf-b5cb-27c0cd501c70",
+				"method": "POST"
+			},
+			{
+				"id": "390895ab-c91e-4e0c-b2e9-d31ab6617810",
+				"method": "PUT"
+			},
+			{
+				"id": "cf029987-d842-4274-b14b-5a62490f11b7",
+				"method": "DELETE"
+			}
+		]
+	}
+}
