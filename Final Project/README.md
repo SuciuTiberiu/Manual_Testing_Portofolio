@@ -6,7 +6,7 @@ Application under test: https://opensource-demo.orangehrmlive.com/
 
 API Documentation: https://orangehrm.github.io/orangehrm-api-doc/
 
-**The final project will be split into 3 sections: [Testing section](https://github.com/SuciuTiberiu/Manual_Testing_Portofolio/blob/main/Final%20Project/README.md#1-testing-section), [SQL section](https://github.com/SuciuTiberiu/Manual_Testing_Portofolio/blob/main/Final%20Project/README.md#2-sql-section) and API Testing(https://github.com/SuciuTiberiu/Manual_Testing_Portofolio/blob/main/Final%20Project/README.md#3-api-testing).**
+**The final project will be split into 3 sections: [Testing section](https://github.com/SuciuTiberiu/Manual_Testing_Portofolio/blob/main/Final%20Project/README.md#1-testing-section), [SQL section](https://github.com/SuciuTiberiu/Manual_Testing_Portofolio/blob/main/Final%20Project/README.md#2-sql-section) and [API Testing](https://github.com/SuciuTiberiu/Manual_Testing_Portofolio/blob/main/Final%20Project/README.md#3-api-testing).**
 
 Tools used: Jira with Zephire for test management, Chrome DevTools and MySQL.
 
