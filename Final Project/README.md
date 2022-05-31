@@ -6,7 +6,7 @@ Application under test: https://opensource-demo.orangehrmlive.com/
 
 API Documentation: https://orangehrm.github.io/orangehrm-api-doc/
 
-**The final project will be split into 2 sections: [Testing section](https://github.com/SuciuTiberiu/Manual_Testing_Portofolio/blob/main/Final%20Project/README.md#1-testing-section) and [SQL section](https://github.com/SuciuTiberiu/Manual_Testing_Portofolio/blob/main/Final%20Project/README.md#2-sql-section).**
+**The final project will be split into 3 sections: [Testing section](https://github.com/SuciuTiberiu/Manual_Testing_Portofolio/blob/main/Final%20Project/README.md#1-testing-section), [SQL section](https://github.com/SuciuTiberiu/Manual_Testing_Portofolio/blob/main/Final%20Project/README.md#2-sql-section) and API Testing(https://github.com/SuciuTiberiu/Manual_Testing_Portofolio/blob/main/Final%20Project/README.md#3-api-testing).**
 
 Tools used: Jira with Zephire for test management, Chrome DevTools and MySQL.
 
@@ -154,3 +154,5 @@ Created a database named 'orangehrm' and a table named 'vacancies' with all the 
  * [select * from vacancies where jobTitle like '%QA' OR  '%QA%' OR 'QA%' group by hiringManager;](https://github.com/SuciuTiberiu/Manual_Testing_Portofolio/blob/main/Final%20Project/screen_shots/select%20where%20like%20OR%20group%20by.png)
 
  * [delete from vacancies where vacancy_id = 4](https://github.com/SuciuTiberiu/Manual_Testing_Portofolio/blob/main/Final%20Project/screen_shots/delete.png)
+
+# 3 API Testing
