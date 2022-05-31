@@ -155,5 +155,7 @@ Created a database named 'orangehrm' and a table named 'vacancies' with all the 
 # 3 API Testing
 
    For API Testing I chose to test Projects sub-section from Time module since there were no documentation for Vacancies section.
-   * Postman collection with the dependents API methods was created
+   * The following checklist for Projects API was created: [API_Projects_checklist.csv](https://github.com/SuciuTiberiu/Manual_Testing_Portofolio/blob/main/Final%20Project/API_Projects_checklist.csv)
+   * Postman collection with the Projects API methods was created that can be seen [here](https://github.com/SuciuTiberiu/Manual_Testing_Portofolio/blob/main/Final%20Project/OrangeHRM-Projects.postman_collection.json)
    * Authorization token was created for accessing the API
+   * API test are executed based on the checklist. The collection was run and can be found [here](https://github.com/SuciuTiberiu/Manual_Testing_Portofolio/blob/main/Final%20Project/OrangeHRM-Projects.postman_test_run.json)
